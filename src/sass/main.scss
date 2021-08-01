@@ -1,2 +1,32 @@
 
+li {
+  margin-left: 15px;
+} 
+ul {
+  padding: 0;
+}
+
+.input {
+  display: block;
+  width: 400px;
+  height: 70px;
+  margin: 0 auto;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+.countries-container {
+  font-size: 20px;
+  line-height: 1.5;
+  margin-left: 20px;
+}
+
+.country-card {
+  display: flex;
+}
+
+.flag {
+  margin-left: 20px;
+}
+
 
